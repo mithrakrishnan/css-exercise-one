@@ -6,7 +6,7 @@ body {
 
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -35,6 +35,13 @@ h3 {
 
 .element {
   background-color: green;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+
+.element2 {
+  background-color: blue;
   height: 100px;
   margin 10px 0;
   width: 100%;
